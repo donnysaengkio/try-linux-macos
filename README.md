@@ -1,5 +1,7 @@
 # Try Linux for Mac
 
+> **Try Linux for Mac has moved** to [donnysaengkio/try-linux](https://github.com/donnysaengkio/try-linux/tree/main/macos), with the Windows and Linux editions and its full history. This repository is archived; new releases and issues are there.
+
 Try a Linux desktop on your Mac without repartitioning your drive. Pick a distribution,
 and Try Linux downloads the official ARM64 installer, checks it against the
 distribution's published SHA-256 checksum, creates a virtual disk and boots it in a
